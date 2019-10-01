@@ -21,6 +21,8 @@ At the end of this lesson, students will be able to:
 Create an app that quizzes users on superhero trivia. Open the `Superheroes` [starter code](https://git.generalassemb.ly/GA-Cognizant/foundational-java/tree/master/java-basics/exception-handling-lesson/starter-code/Superheroes) and start working from there.
 
 Your app reads the superhero info from an `input.txt` file and stores it in an `ArrayList`. Based on the answers, keep count of every right and wrong one. If the number of right answers is greater than wrong ones, declare the user a winner and write the user's name and the result of the quiz in an `output.txt` file.
+
+
 ---
 # Superheroes-lab
 SuperHeroes Lab - error handling exception applied to file reading in a Superhero quiz App
