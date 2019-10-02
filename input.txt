@@ -1,6 +1,5 @@
-Superman,DC,Clark Kent,
-Batman,DC,Bruce Wayne
-Spiderman,Marvel,Peter Parker
-Thor,Marvel,Thor Odinson
-Wonder Woman,DC,Diana Prince
-Iron Man,Marvel, Tony Stark
+Superman,Clark Kent,Krypton,DC
+Batman,Bruce Wayne,Gotham,DC
+Spiderman,Peter Parker,Manhattan,Marvel
+Wonder Woman,Diana Prince,Themyscira,DC
+Iron Man,Tony Stark,Long Island,Marvel
