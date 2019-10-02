@@ -1,4 +1,6 @@
-Superman
-Batman
-Spiderman
-Wonder Woman
+Superman,DC,Clark Kent,
+Batman,DC,Bruce Wayne
+Spiderman,Marvel,Peter Parker
+Thor,Marvel,Thor Odinson
+Wonder Woman,DC,Diana Prince
+Iron Man,Marvel, Tony Stark
